@@ -188,18 +188,28 @@ export const AvailableSizes = [
   },
 ];
 
+// export const firebaseConfig = {
+//   apiKey: "API_KEY",
+//   authDomain: "AUTH_DOMAIN",
+//   projectId: "PROJECT_ID",
+//   storageBucket: "STROAGE_BUCKET",
+//   messagingSenderId: "MESSAGING_SENDER_ID",
+//   appId: "APP_ID",
+//   measurementId: "MEASUREMENT_ID",
+// };
+
 export const firebaseConfig = {
-  apiKey: "API_KEY",
-  authDomain: "AUTH_DOMAIN",
-  projectId: "PROJECT_ID",
-  storageBucket: "STROAGE_BUCKET",
-  messagingSenderId: "MESSAGING_SENDER_ID",
-  appId: "APP_ID",
-  measurementId: "MEASUREMENT_ID",
+  apiKey: "AIzaSyD0jMqBTW8Kud9qk8pSN2Zu2VkcOP5AytI",
+  authDomain: "e-commerce-914f8.firebaseapp.com",
+  projectId: "e-commerce-914f8",
+  storageBucket: "e-commerce-914f8.appspot.com",
+  messagingSenderId: "409005352762",
+  appId: "1:409005352762:web:ae45c8855c9e72da071203",
+  measurementId: "G-ZHCQ8K4GPW"
 };
 
 export const firebaseStroageURL =
-  "YOUR_FIREBASE_STROAGE_URL";
+  "gs://e-commerce-914f8.appspot.com";
 
 export const addNewAddressFormControls = [
   {
